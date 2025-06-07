@@ -11,8 +11,8 @@ from telethon.errors.rpcerrorlist import (
     PeerIdInvalidError,
 )
 
-api_id = 12108701
-api_hash = "fb82e09eca95fd95b213b68a5a78f693"
+api_id = 20254834
+api_hash = "130fdcf2f6271e595a2d159b16be2724"
 
 client = TelegramClient("dake_session", api_id, api_hash)
 
